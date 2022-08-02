@@ -1,6 +1,6 @@
 # Stellar_Classification_USML
 
-Our project is about clustering stars based on its features.
+This project is about clustering stars based on its features.
 Background Check of Star classes!
 Stars in the universe can be classified into several groups. The groups I have used here are:
 • Brown Dwarf
